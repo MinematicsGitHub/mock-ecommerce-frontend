@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Woman wearing saree front view</title>
+  <desc id="desc">Editorial style front pose illustration of a woman in an elegant saree.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="100%" stop-color="#fde2e4"/>
+    </linearGradient>
+    <linearGradient id="saree" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <circle cx="690" cy="210" r="150" fill="#ffffff" opacity=".5"/>
+  <path d="M436 238c0-53 38-93 88-93s86 41 86 93c0 45-24 82-60 98v64h-55v-64c-35-16-59-53-59-98Z" fill="#f3c7a8"/>
+  <path d="M431 230c16-72 75-112 132-93 17 6 31 18 42 34-8-3-17-5-26-5-23 0-44 11-61 30-14-12-32-19-52-19-13 0-25 3-35 8Z" fill="#2b211f"/>
+  <path d="M398 409c26-29 70-46 119-46 49 0 92 17 118 46l-30 167H428l-30-167Z" fill="#f8e6d6"/>
+  <path d="M365 567c20-66 82-114 154-114 72 0 134 48 154 114l72 417H298l67-417Z" fill="url(#saree)"/>
+  <path d="M492 459c48 39 95 105 140 201 33 71 55 150 68 237H598c-17-104-54-220-111-348l5-90Z" fill="#fecdd3" opacity=".82"/>
+  <path d="M420 566l32 419h34l26-355 23 355h35l34-419-102-43-82 43Z" fill="#be185d" opacity=".36"/>
+  <path d="M420 1010h260" stroke="#ffffff" stroke-width="14" opacity=".8"/>
+  <text x="78" y="1060" fill="#9d174d" font-family="Georgia, serif" font-size="52" font-weight="700">Editorial Front View</text>
+  <text x="78" y="1112" fill="#be185d" font-family="Arial, sans-serif" font-size="26" letter-spacing="4">MODEL IN SAREE</text>
+</svg>

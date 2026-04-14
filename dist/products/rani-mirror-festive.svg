@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Rani Mirror Festive Saree</title>
+  <desc id="desc">Festive georgette saree illustration with mirrorwork inspired highlights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdf2f8"/>
+      <stop offset="100%" stop-color="#f9a8d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <path d="M470 206c106 74 170 198 170 342 0 172-97 313-218 313s-218-141-218-313c0-144 64-268 170-342 29 37 42 98 48 153 6-55 19-116 48-153Z" fill="#fff7fb" opacity=".9"/>
+  <g fill="#ffffff" opacity=".7">
+    <circle cx="286" cy="394" r="14"/>
+    <circle cx="616" cy="452" r="16"/>
+    <circle cx="352" cy="710" r="13"/>
+    <circle cx="590" cy="786" r="12"/>
+    <circle cx="452" cy="566" r="15"/>
+  </g>
+  <text x="82" y="1048" fill="#831843" font-family="Georgia, serif" font-size="54" font-weight="700">Rani Mirror</text>
+  <text x="82" y="1102" fill="#9d174d" font-family="Arial, sans-serif" font-size="28" letter-spacing="4">FESTIVE GEORGETTE</text>
+</svg>

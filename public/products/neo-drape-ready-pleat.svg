@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Neo Drape Ready Pleat Saree</title>
+  <desc id="desc">Contemporary pre-draped saree illustration with structured pleats.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ede9fe"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <circle cx="190" cy="210" r="120" fill="#ffffff" opacity=".45"/>
+  <path d="M476 214c104 72 166 194 166 336 0 171-96 310-215 310s-215-139-215-310c0-142 62-264 166-336 28 37 40 97 49 149 9-52 21-112 49-149Z" fill="#f5f3ff" opacity=".92"/>
+  <path d="M354 360l-96 483 76 0 68-402 28 402 76 0 26-403 72 403h76l-94-483-116 86-116-86Z" fill="#7c3aed" opacity=".35"/>
+  <text x="82" y="1048" fill="#4c1d95" font-family="Georgia, serif" font-size="54" font-weight="700">Neo Drape</text>
+  <text x="82" y="1102" fill="#5b21b6" font-family="Arial, sans-serif" font-size="28" letter-spacing="4">READY PLEAT</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Ivory Code Contemporary Saree</title>
+  <desc id="desc">Minimal contemporary saree illustration with monochrome detailing.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e5e7eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <path d="M470 212c103 72 164 192 164 331 0 170-95 307-212 307s-212-137-212-307c0-139 61-259 164-331 28 36 39 94 48 145 9-51 20-109 48-145Z" fill="#f9fafb" opacity=".96"/>
+  <path d="M612 238l54 632" stroke="#111827" stroke-width="12" opacity=".7"/>
+  <path d="M572 252l50 590" stroke="#6b7280" stroke-width="7" opacity=".7"/>
+  <text x="82" y="1048" fill="#111827" font-family="Georgia, serif" font-size="54" font-weight="700">Ivory Code</text>
+  <text x="82" y="1102" fill="#374151" font-family="Arial, sans-serif" font-size="28" letter-spacing="4">CONTEMPORARY DRAPE</text>
+</svg>

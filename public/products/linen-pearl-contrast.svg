@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Linen Pearl Contrast Saree</title>
+  <desc id="desc">Linen saree illustration with contrast border and modern neutral mood.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fafaf9"/>
+      <stop offset="100%" stop-color="#d6d3d1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <path d="M470 214c102 70 162 188 162 327 0 169-94 305-210 305s-210-136-210-305c0-139 60-257 162-327 27 35 39 92 48 142 9-50 21-107 48-142Z" fill="#ffffff" opacity=".92"/>
+  <path d="M608 260l96 556" stroke="#1f2937" stroke-width="18" opacity=".65"/>
+  <path d="M566 280l90 520" stroke="#9ca3af" stroke-width="10" opacity=".65"/>
+  <text x="82" y="1048" fill="#292524" font-family="Georgia, serif" font-size="54" font-weight="700">Linen Pearl</text>
+  <text x="82" y="1102" fill="#44403c" font-family="Arial, sans-serif" font-size="28" letter-spacing="4">CONTRAST BORDER</text>
+</svg>

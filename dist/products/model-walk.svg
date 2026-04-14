@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Woman wearing saree walking pose</title>
+  <desc id="desc">Runway inspired walking pose illustration of a woman in a saree.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fffbeb"/>
+      <stop offset="100%" stop-color="#fde68a"/>
+    </linearGradient>
+    <linearGradient id="saree" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <circle cx="190" cy="200" r="110" fill="#ffffff" opacity=".45"/>
+  <path d="M408 233c0-52 34-90 79-90s78 38 78 90c0 40-19 73-49 89v61h-57v-61c-31-16-51-49-51-89Z" fill="#f1c7a7"/>
+  <path d="M420 219c24-57 83-87 137-68 18 6 33 19 45 35-39-9-73 3-100 33-17-11-39-15-82 0Z" fill="#2a1f1d"/>
+  <path d="M374 411c37-28 78-42 123-42 56 0 107 21 138 59l-28 143H421l-47-160Z" fill="#f8e7d7"/>
+  <path d="M350 564c23-67 86-115 159-115 44 0 86 18 117 49l-48 242 92 253H300l68-239-18-190Z" fill="url(#saree)"/>
+  <path d="M489 470c68 66 128 162 179 288l-72 64c-22-48-49-96-82-142-32-45-68-85-108-121l83-89Z" fill="#fff7ed" opacity=".82"/>
+  <path d="M350 1000h300" stroke="#ffffff" stroke-width="14" opacity=".82"/>
+  <text x="78" y="1060" fill="#b45309" font-family="Georgia, serif" font-size="52" font-weight="700">Runway Walk Edit</text>
+  <text x="78" y="1112" fill="#c2410c" font-family="Arial, sans-serif" font-size="26" letter-spacing="4">MULTI LOOK CAROUSEL</text>
+</svg>
