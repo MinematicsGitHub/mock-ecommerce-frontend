@@ -6,6 +6,8 @@ import { AuthProvider } from "./context/AuthContext";
 import { CartProvider } from "./context/CartContext";
 import { ThemeProvider } from "./context/ThemeContext";
 import { ToastProvider } from "./context/ToastContext";
+import { HashRouter } from "react-router-dom";
+
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -15,7 +17,9 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         <ToastProvider>
           <AuthProvider>
             <CartProvider>
+              <HashRouter>
               <App />
+              </HashRouter>
             </CartProvider>
           </AuthProvider>
         </ToastProvider>
